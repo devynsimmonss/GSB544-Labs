@@ -8,7 +8,7 @@ format:
     embed-resources: true
 
 ---
-https://github.com/devynsimmonss/GSB544-Labs.git
+<https://github.com/devynsimmonss/GSB544-Labs.git>
 
 This dataset contains a subset of the fuel economy data from the EPA.
 
